@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+#
 # bittrex_websocket/websocket_client.py
 # Stanislav Lazarov
 
